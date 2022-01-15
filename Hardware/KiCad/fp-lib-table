@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "GPBH")(type "KiCad")(uri "${KIPRJMOD}/GPBH.pretty")(options "")(descr ""))
+)

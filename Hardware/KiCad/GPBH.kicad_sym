@@ -6,7 +6,7 @@
     (property "Value" "3PDT_Switch" (id 1) (at 0 15.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 17.78 0)
+    (property "Footprint" "GPBH:Gorva-3PDT" (id 2) (at 1.27 -13.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 17.78 0)

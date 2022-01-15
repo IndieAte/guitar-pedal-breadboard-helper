@@ -1,0 +1,9 @@
+# KiCad autosave and temporary files
+*-bak
+*-cache*
+*-bak*
+_autosave*
+Hardware/KiCad/GPBH-backups
+
+# FreeCAD backup files
+Hardware/3DModelling/*.FCStd1
