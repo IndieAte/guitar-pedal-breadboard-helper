@@ -3,6 +3,7 @@
 *-cache*
 *-bak*
 _autosave*
+Hardware/KiCad/GPBH-backups/*
 Hardware/KiCad/GPBH-backups
 
 # FreeCAD backup files
